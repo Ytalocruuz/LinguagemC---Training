@@ -112,3 +112,36 @@ int main (){
 }
 
 }
+
+
+
+int main (){
+
+    float peso, altura, IMC;
+    char op;
+
+    do{
+        printf("Digite seu peso:\n  ");
+        scanf("%f", &peso);
+        printf("Digite sua Altura:\n  ");
+        scanf("%f", &altura);
+
+        IMC = peso / (altura * altura); 
+
+        printf("Seu IMC é: %.2f.\n", IMC);
+
+        if(IMC < 21){
+            printf("Abaixo do peso.\n ");
+        }else{
+        if(IMC > 30.75){
+            printf("Obeso. \n");
+        }else{
+            printf("Peso padrao. \n");
+        }
+        }
+        printf("Deseja executar nvamente: Se sim, digite Y.  \n");
+        scanf("%c", &op);
+    }while (op == 'y' || op == 'Y' );
+        
+}
+
