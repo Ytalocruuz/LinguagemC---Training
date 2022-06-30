@@ -60,7 +60,7 @@ int main(){
                     novSalario = aumento + salario;
 
                     printf("Cargo: Técnico de segurança. \n");
-                    printf("Aumentou: R$%.2f reais.\n", aumento);
+                    printf("Aumentou: R$%.2f reais .\n", aumento);
                     printf("Salario atualizado R$%.2f reais. \n", novSalario); 
 
                 }
