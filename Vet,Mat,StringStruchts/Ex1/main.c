@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include<stdlib.h>
 
+// O problema consiste em elaborar um cadastro para 20 livros, contendo as seguintes informações: código, título, autor, área, ano e editora. Desenvolver um menu 
+// com as seguintes opções:
+// 1. Cadastrar os livros.
+// 2. Imprimir as informações dos livros.
+// 3. Pesquisar livros por código.
+// 4. Ordenar os livros por ano.
+// 5. Sair do programa.
+
 #define TAM 20;
 
 struct livro
