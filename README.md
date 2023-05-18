@@ -1,8 +1,8 @@
-<h1 align="center"> 📁 Unicesumar LinguagemC 📁 </h1>
+<h1> 📁 Unicesumar LinguagemC 📁 </h1>
 
-<h2 align="center">Materiais: </h2>
+<h2>Materiais: </h2>
 
--<p align="center">Algoritmos e Lógica de Programação 1</p>
-*<p align="center">Algoritmos e Lógica de Programação 2</p>
-*<h3 align="center">Estrutura de Dados 1</h3> 
-*<h3 align="center">Estrutura de Dados 2</h3> 
+- Algoritmos e Lógica de Programação 1
+- Algoritmos e Lógica de Programação 2
+= Estrutura de Dados 1
+- Estrutura de Dados 2
