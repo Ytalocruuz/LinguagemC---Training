@@ -2,7 +2,7 @@
 
 <h2 align="center">Materiais: </h2>
 
-- *<p align="center">*Algoritmos e Lógica de Programação 1</p>
+- * <p align="center">Algoritmos e Lógica de Programação 1</p>
 *<p align="center">Algoritmos e Lógica de Programação 2</p>
 *<h3 align="center">Estrutura de Dados 1</h3> 
 *<h3 align="center">Estrutura de Dados 2</h3> 
